@@ -66,3 +66,17 @@ categories: [git] # add categories
     ```
     git commit --amend -m "커밋 메세지"
     ```
+
+7. Git flow
+
+    1. `git flow init`
+    1. `git flow feature start MYFEATURE`
+        > 새로운 기능 개발 시작
+    1. `git flow feature publish MYFEATURE`
+        > 작업 중인 feature를 원격 저장소에 게시한다.
+    1. `git flow feature pull origin MYFEATURE`
+        > The command 'git flow feature pull' will be deprecated per version 2.0.0. Use 'git flow feature track' instead.
+        > 원격저장소의 feature를 가져온다.
+    1. `git flow feature finish MYFEATURE`
+        > 기능 개발 완료.  
+        > 자동으로 develop에 병합되며 feature를 삭제한다.
