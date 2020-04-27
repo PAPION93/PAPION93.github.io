@@ -61,4 +61,8 @@ categories: [git] # add categories
     $ git commit --amend
     ```
 
-6. git pull 강제로 하기
+6. commit message 변경하기
+
+    ```
+    git commit --amend -m "커밋 메세지"
+    ```
