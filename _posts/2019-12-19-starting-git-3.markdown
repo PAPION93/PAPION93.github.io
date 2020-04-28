@@ -41,14 +41,14 @@ categories: [git] # add categories
     $ git log
 
     # commit을 취소하고 해당 파일들을 staged 상태로 워킹 디렉터리에서 보존
-    $ get reset --soft HEAD^
+    $ get reset --soft [commit]
 
-    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 보존
-    $ get reset --mixed HEAD^
-    $ get reset HEAD^
+    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 보존, Default
+    $ get reset --mixed [commit]
+    $ get reset [commit]
 
-    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 삭제
-    $ get reset --hard HEAD^
+    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 삭제, 복구 불가
+    $ get reset --hard [commit]
     ```
 
 5. commit에 빠뜨린 파일을 commit 하기
