@@ -41,14 +41,14 @@ categories: [git] # add categories
     $ git log
 
     # commit을 취소하고 해당 파일들을 staged 상태로 워킹 디렉터리에서 보존
-    $ get reset --soft HEAD^
+    $ get reset --soft [commit]
 
-    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 보존
-    $ get reset --mixed HEAD^
-    $ get reset HEAD^
+    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 보존, Default
+    $ get reset --mixed [commit]
+    $ get reset [commit]
 
-    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 삭제
-    $ get reset --hard HEAD^
+    # commit을 취소하고 해당 파일들을 unstaged 상태로 워킹 디렉터리에서 삭제, 복구 불가
+    $ get reset --hard [commit]
     ```
 
 5. commit에 빠뜨린 파일을 commit 하기
@@ -66,3 +66,17 @@ categories: [git] # add categories
     ```
     git commit --amend -m "커밋 메세지"
     ```
+
+7. Git flow
+
+    1. `git flow init`
+    1. `git flow feature start MYFEATURE`
+        > 새로운 기능 개발 시작
+    1. `git flow feature publish MYFEATURE`
+        > 작업 중인 feature를 원격 저장소에 게시한다.
+    1. `git flow feature pull origin MYFEATURE`
+        > The command 'git flow feature pull' will be deprecated per version 2.0.0. Use 'git flow feature track' instead.
+        > 원격저장소의 feature를 가져온다.
+    1. `git flow feature finish MYFEATURE`
+        > 기능 개발 완료.  
+        > 자동으로 develop에 병합되며 feature를 삭제한다.
