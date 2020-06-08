@@ -1,0 +1,39 @@
+---
+layout: post
+title: 디자인 패턴 공부하기
+subtitle: Head First Design Pattern
+date: 2020-06-08 00:00:00 +0300
+description: # Add post description (optional)
+tags: [design patterns]
+categories: [design patterns]
+---
+
+# 1장 디자인 패턴 소개
+
+## 첫번째 원칙
+
+> 애플리케이션에서 달라지는 부분을 찾아내고, 달라지지 않는 부분으로부터 분리시킨다. 바뀌는 부분만 캡슐화하고 시스템의 유연성, 확장성을 높인다.  
+
+## 두번쨰 원칙
+
+>구현이 아닌 인터페이스(상위 형식)에 맞춰서 프로그래밍한다.  
+
+### 예제
+
+#### 구현에 맞춘 프로그래밍
+```
+Dog d = new Dog();
+d.bark();
+```
+
+#### 인터페이스/상위 형식에 맞춘 프로그래밍 
+```
+Animal animal = new Dog();
+animal.makeSound();
+```
+
+#### 더 바람직한 방식
+```
+a = getAnimal();
+a.makeSound();
+```
