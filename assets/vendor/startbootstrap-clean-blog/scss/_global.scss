@@ -13,13 +13,18 @@ p {
 	}
 }
 
+.container h1, h2, h3, h4, h5{
+    margin-top: 3.5rem;
+    margin-bottom: 1.5rem;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-	font-weight: 800;
+	font-weight: 600;
 	@include sans-serif-font;
 }
 
