@@ -4,8 +4,8 @@ title: 코딩테스트 파이썬으로 풀기
 subtitle: 프로그래머스 코딩테스트 파이썬으로 풀어보기
 date: 2019-10-10 00:00:00 +0300
 description: # Add post description (optional)
-tags: [Coding Test, python] # add tag
-categories: [Coding Test] # add categories
+tags: [CodingTest, python] # add tag
+categories: [CodingTest, python] # add categories
 ---
 
 [문제 참고](https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)

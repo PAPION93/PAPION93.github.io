@@ -6,12 +6,12 @@ linux: Linux
 web: Web
 http: Http
 python: Python
-Coding Test: Coding Test
+CodingTest: CodingTest
 nginx: Nginx
 php: PHP
-java: Java
 oop: OOP
 plan: Plan
-db: DB
+database: Database
 mysql: Mysql
 review: Review
+DesignPattern: DesignPattern
