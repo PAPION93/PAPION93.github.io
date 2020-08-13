@@ -26,7 +26,7 @@ categories: [database, mysql]
 
 아래는 Log 테이블입니다.  
 ![desc_logtable.jpg](https://papion93.github.io/img/desc_logtable.jpg)  
-(모든 데이터를 모두 Insert하면 좋겠지만, 복호화를 진행하여야 하기 때문에 이 정도만 저장하였습니다.)
+(복호화를 진행하여야 하기 때문에 이 정도만 저장하였습니다.)
 
 Trigger는 이렇게 생성하였습니다.
 

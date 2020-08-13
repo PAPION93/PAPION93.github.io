@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategy Pattern
-subtitle: Head First Design Pattern 01
+subtitle: Head First Design Patterns 01
 date: 2020-06-08 00:00:00 +0300
 description: # Add post description (optional)
 tags: [DesignPattern, OOP]
@@ -39,10 +39,12 @@ animal.makeSound();
 a = getAnimal();
 a.makeSound();
 ```
+> 이 코드는 상위형식의 인스턴스를 만드는 과정을(new Dog()같은 방식) 직접 만들지않고, 구체적으로 구현된 객체를 실행시에 대입하는 것이다.  
+> Animal의 하위 형식중 어떤 것이지 모르지만, makeSound()에 대해 올바른 행동만 할 수 있으면 된다.
 
 #### 세번째 원칙
 > 상속보다는 구성을 활용한다.  
 
-여기서 구성이란, 예를 들어 오리라는 클래스는 `FlyBehavior`와 `QuackBehavior`의 인터페이스로부터 나는 행동과 꽥꽥거리는 행동을 위임받는 행위를 말한다.  
+여기서 `구성`이란, 예를 들어 오리라는 클래스는 `FlyBehavior`와 `QuackBehavior`의 `Interface`로부터 나는 행동과 꽥꽥거리는 행동을 `위임받는 행위`를 말한다.  
 클래스는 행동을 상속받는 대신, 올바른 행동 객체로 구성되어 행동되어야 한다.  
 이는 캡슐화 뿐만 아니라 동적으로 행동을 바꿀 수도 있게하고, 독립적으로 알고리즘을 변경할 수 있다.
