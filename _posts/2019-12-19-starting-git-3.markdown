@@ -67,7 +67,13 @@ categories: [git] # add categories
     git commit --amend -m "커밋 메세지"
     ```
 
-7. Git flow
+7. git pull, merge 취소하기
+    ```
+    git reset --hard ORIG_HEAD
+    git reset --merge ORIG_HEAD
+    ```
+
+8. Git flow
 
     1. `git flow init`
     1. `git flow feature start MYFEATURE`
