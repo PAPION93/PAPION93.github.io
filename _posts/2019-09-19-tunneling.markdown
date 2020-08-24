@@ -5,7 +5,7 @@ subtitle: Linux iptables NAT 사용방법 기록
 date: 2019-09-19 00:00:00 +0300
 description: # Add post description (optional)
 tags: [network, linux] # add tag
-categories: [network] # add categories
+categories: [network, linux] # add categories
 ---
 
 내부 네트워크내에 전용선으로 연결된 서버들을 외부의 특정 서버와 통신을 가능토록 하기 위한 프록시 서버가 필요하여 세팅해보았습니다.  

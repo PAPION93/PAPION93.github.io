@@ -1,3 +1,4 @@
+blog: Blog
 git: Git
 jekyll: Jekyll
 network: Network
@@ -5,12 +6,12 @@ linux: Linux
 web: Web
 http: Http
 python: Python
-코딩문제풀이: 코딩문제풀이
+CodingTest: CodingTest
 nginx: Nginx
 php: PHP
-java: Java
 oop: OOP
-계획: 계획
-db: DB
+plan: Plan
+database: Database
 mysql: Mysql
-review: review
+review: Review
+DesignPattern: DesignPattern

@@ -4,8 +4,8 @@ title: 😁2020년 계획과 도전
 subtitle: 계획을 이렇게 싸악~ 그럴싸하쥬?
 date: 2019-12-31 00:00:00 +0300
 description: # Add post description (optional)
-tags: [계획]
-categories: [계획]
+tags: [Plan]
+categories: [Plan]
 ---
 
 # 여전히 빈 깡통

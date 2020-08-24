@@ -2,5 +2,5 @@
 
 ## Ruby
 
--   Exec
-    `bundle exec jekyll serve`
+    - Exec
+        `bundle exec jekyll serve`
