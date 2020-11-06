@@ -4,8 +4,8 @@ title: 코딩테스트 파이썬으로 풀기
 subtitle: 2020카카오공채 파이썬으로 풀어보기
 date: 2019-10-31 00:00:00 +0300
 description: # Add post description (optional)
-tags: [Coding Test, python] # add tag
-categories: [Coding Test] # add categories
+tags: [CodingTest, python] # add tag
+categories: [CodingTest, python] # add categories
 ---
 
 # [2020카카오공채] 문자열 압축
