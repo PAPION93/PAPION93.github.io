@@ -30,7 +30,7 @@ categories: [books]
 - [상자 밖에 있는 사람](http://www.yes24.com/Product/Goods/11520753)
 - [Pro Git](http://www.yes24.com/Product/Goods/24841824?OzSrank=1)
 - [해커의 기쁨 (제2판)](http://www.yes24.com/Product/Goods/9218103?OzSrank=2)
-- [윤성우의 열혈 자료구조][http://www.yes24.com/Product/Goods/6214396?OzSrank=1]
+- [윤성우의 열혈 자료구조](http://www.yes24.com/Product/Goods/6214396?OzSrank=1)
 - [문제로 풀어보는 알고리즘 - 프로그래밍 트레이닝 Q&A](http://www.yes24.com/Product/Goods/7348441?OzSrank=1)
 - [객체지향의 사실과 오해 - 역할, 책임, 협력 관점에서 본 객체지향](http://www.yes24.com/Product/Goods/18249021)
 - [쉽게 배워 바로 써먹는 디자인 패턴 - 24가지 패턴으로 알아보는 객체지향의 원리](http://www.yes24.com/Product/Goods/93173296?OzSrank=1)
