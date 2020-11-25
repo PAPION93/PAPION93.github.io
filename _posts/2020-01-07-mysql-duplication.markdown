@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 서비스중인 테이블의 데이터를 서비스 중단을 최소화하여 변경하기
-subtitle: 
+title: 서비스중인 테이블의 데이터를 모두 변경하기
+subtitle: 서비스 중단을 최소화 해보자
 date: 2020-01-07 00:00:00 +0300
 description: # Add post description (optional)
 tags: [database, mysql]
