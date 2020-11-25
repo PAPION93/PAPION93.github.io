@@ -8,30 +8,35 @@ tags: [books]
 categories: [books]
 ---
 
-## 책 정리
-
-> 2020년 10월 27일 기준
+## 나의 책장
 
 ### 읽고 있는 책
 
-- 빌 캠벨 - 실리콘밸리의 위대한 코치 (20.11.02)
-- Head First Design Pattern
-- 테스트 주도 개발 - 켄트백
+- [빌 캠벨 - 실리콘밸리의 위대한 코치](http://www.yes24.com/Product/Goods/91426844?OzSrank=1) (20.11.02)
 
-### 읽을 책
+### 보유중인 책
 
-- CODE
-- 해커, 광기의 랩소디
-- 코끼리와 벼룩
+- [CODE](http://www.yes24.com/24/UsedShop/Goods/16667186)
+- [Head First Design Pattern](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=582754)
+- [테스트 주도 개발 - 켄트백](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717)
+- [해커, 광기의 랩소디](http://www.yes24.com/Product/Goods/72302803?OzSrank=1)
+- [코끼리와 벼룩](http://www.yes24.com/Product/Goods/30453767?OzSrank=1)
 
 ### 사고 싶은 책
 
-- 쉽게 배워 바로 써먹는 디자인 패턴 - 24가지 패턴으로 알아보는 객체지향의 원리
-- 객체지향의 사실과 오해 - 역할, 책임, 협력 관점에서 본 객체지향
-- 해커와 화가
-- 클린 코더 - 단순 기술자에서 진정한 소프트웨어 장인이 되기까지
-- 문제로 풀어보는 알고리즘 - 프로그래밍 트레이닝 Q&A
-- 클린 코드
+- [Code Complete 코드 컴플리트 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114392104)
+- [HTTP 완벽 가이드](http://www.yes24.com/Product/Goods/15381085)
+  - [웹 프로그래머를 위한 HTTP 완벽 가이드 읽는 법](https://blog.npcode.com/2015/06/07/%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-http-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9D%BD%EB%8A%94-%EB%B2%95/)
+- [상자 밖에 있는 사람](http://www.yes24.com/Product/Goods/11520753)
+- [Pro Git](http://www.yes24.com/Product/Goods/24841824?OzSrank=1)
+- [해커의 기쁨 (제2판)](http://www.yes24.com/Product/Goods/9218103?OzSrank=2)
+- [윤성우의 열혈 자료구조][http://www.yes24.com/Product/Goods/6214396?OzSrank=1]
+- [문제로 풀어보는 알고리즘 - 프로그래밍 트레이닝 Q&A](http://www.yes24.com/Product/Goods/7348441?OzSrank=1)
+- [객체지향의 사실과 오해 - 역할, 책임, 협력 관점에서 본 객체지향](http://www.yes24.com/Product/Goods/18249021)
+- [쉽게 배워 바로 써먹는 디자인 패턴 - 24가지 패턴으로 알아보는 객체지향의 원리](http://www.yes24.com/Product/Goods/93173296?OzSrank=1)
+- [해커와 화가](http://www.yes24.com/Product/Goods/11775130)
+- [클린 코더 - 단순 기술자에서 진정한 소프트웨어 장인이 되기까지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86619346)
+- [클린 코드 Clean Code - 애자일 소프트웨어 장인 정신](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680)
 - Docker 쿠버네티스 관련 도서
 
 ### 읽은 책
